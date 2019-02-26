@@ -1,1 +1,2 @@
 https://quickadminpanel.com/blog/stripe-payments-in-laravel-the-ultimate-guide/
+https://www.slideshare.net/guilhermeblanco/php-for-adults-clean-code-and-object-calisthenics
